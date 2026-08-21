@@ -1,0 +1,9 @@
+{
+  "name":"SMC Scalp Terminal",
+  "short_name":"SMC Terminal",
+  "start_url":".",
+  "display":"standalone",
+  "background_color":"#070a0f",
+  "theme_color":"#070a0f",
+  "icons":[]
+}
